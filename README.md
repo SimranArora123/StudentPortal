@@ -39,3 +39,5 @@
 <li>run command-- npm install</li>
 <li>Go to localhost:3000 in your browser.</li>
 </ul>
+<h2> Deployed link</h2>
+<a href="https://studentportall.herokuapp.com/">Click here to visit website</a>
