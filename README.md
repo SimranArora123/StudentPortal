@@ -25,7 +25,10 @@
 
 </ul>
 
-</ul>
 <h2>Features:</h2>
 <h3>Online video Chat application:</h3>
 <img src="public/video.png" width:"50%">
+  <h3>Online File Sharing Application:</h3>
+  <img src="public/file.png" width:"50%">
+  <h3>Notes application</h3>
+  <img src="public/notes.png" width:"50%">
