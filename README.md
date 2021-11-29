@@ -19,7 +19,7 @@
 <ul>
 <li>Node.Js</li>
 <li>EJS</li>
-<li>Socket.io<li>
+<li>Socket.io</li>
 <li>MongoDb</li>
 <li>Passport</li>
 
