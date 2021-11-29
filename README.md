@@ -3,7 +3,7 @@
 <p>It is an online web application specially designed for students to help them in studies. It consists of the features like online video application where the students can discuss and share their thought with their friends
 , also it also has the file sharing features where student can upload and share any file with anyone</p>
 
-
+<img src="public/video.png" width:"50%">
 <h2>Technology used:</h2>
 <ul>
 <h3>Frontend:</h3>
